@@ -17,3 +17,7 @@ We then move to analyze two specific use cases of such application scenario whic
 We then explore a second application scenario in which the focus is on processing high amount of textual information using computation environments based on multithread single machines or of distributed type. In this context, we propose and evaluate Processfast, a new multi-thread data processing library offering the possibility to easily use task and data parallelism approaches  inside the same application. We also present distributed solutions by proposing NLP4Spark, a data ingestion library built over Apache Spark and similar in spirit to JaTeCS, which offers a clean and concise API to conveniently access and transform  managed data. As an interesting case study of "big data" technologies integration, we also show how to build a social media application ingesting data from Twitter and which is used as monitoring/support tool for emergency responders in crisis management of man-made/natural disasters.
 
 We conclude our thesis by exploring a third application scenario in which deep learning methods are used to learn complex models over large amount of data. We thus present a novel deep learning method called Text2Vis which is a cross-media retrieval neural network able to translate a textual query into a visual space query and thus use this visual representation to search for similar images into a large storage of images.
+
+
+## Download
+Here you can download the PDF of my thesis: [Phd thesis](https://github.com/tizfa/phdthesis/raw/master/thesis.pdf)
